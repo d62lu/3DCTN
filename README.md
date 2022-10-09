@@ -19,16 +19,18 @@ on ModelNet40 and ScanObjectNN datasets demonstrated that our method achieves st
 
 
 **Architecture**
+
 <img width="766" alt="1" src="https://user-images.githubusercontent.com/92398834/194783420-73776a42-ebb1-488f-b5f8-218578f3aedc.png">
 
 
 
 **Heat Map Visualization**
+
 <img width="725" alt="2" src="https://user-images.githubusercontent.com/92398834/194783430-eaed25a9-f1a1-464f-834c-eb810c0a9eaf.png">
 
 
 
-**Install **
+**Install**
 
 The latest codes are tested on CUDA10.1, PyTorch 1.6 and Python 3.8:
 
