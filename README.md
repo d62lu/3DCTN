@@ -36,7 +36,7 @@ The latest codes are tested on CUDA10.1, PyTorch 1.6 and Python 3.8:
 
 **Data Preparation**
 
-Download alignment ModelNet (https://shapenet.cs.stanford.edu/media/modelnet40_normal_resampled.zip) and save in data/modelnet40_normal_resampled/
+Download alignment ModelNet (https://shapenet.cs.stanford.edu/media/modelnet40_normal_resampled.zip) and save in "data/modelnet40_normal_resampled/".
 
 **Run**
 
