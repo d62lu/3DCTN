@@ -32,7 +32,7 @@ on ModelNet40 and ScanObjectNN datasets demonstrated that our method achieves st
 
 **Install**
 
-The latest codes are tested on CUDA10.1, PyTorch 1.6 and Python 3.8:
+The latest codes are tested on CUDA10.1, PyTorch 1.6 and Python 3.8.
 
 **Data Preparation**
 
