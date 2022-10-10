@@ -1,0 +1,10 @@
+numpy
+msgpack-numpy
+lmdb
+h5py
+einops
+
+
+
+pytorch==1.6.0
+cudatoolkit==10.1
